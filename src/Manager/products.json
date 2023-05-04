@@ -1,22 +1,36 @@
 [
   {
-    "id": 1,
-    "title": "iPhone 12",
+    "title": "iPhone XR",
     "description": "Producto nuevo en caja sellada",
-    "code": "PF32",
-    "price": 659.99,
+    "code": "PF33-Mobile",
+    "price": 359.99,
     "status": true,
     "stock": 10,
-    "category": "Tecnología y dispositivos móviles"
+    "category": "Tecnología y dispositivos móviles",
+    "id": 7
   },
   {
     "id": 2,
-    "title": "iPhone 13",
-    "description": "Producto nuevo en caja sellada",
-    "code": "PF33",
-    "price": 769.99,
-    "status": true,
-    "stock": 10,
-    "category": "Tecnología y dispositivos móviles"
+    "name": {
+      "title": "iPhone 11",
+      "description": "Producto nuevo en caja sellada",
+      "code": "PF33-Mobile",
+      "price": 459.99,
+      "status": true,
+      "stock": 10,
+      "category": "Tecnología y dispositivos móviles"
+    }
+  },
+  {
+    "id": 1,
+    "name": {
+      "title": "iPhone 12",
+      "description": "Producto nuevo en caja sellada",
+      "code": "PF33-Mobile",
+      "price": 559.99,
+      "status": true,
+      "stock": 10,
+      "category": "Tecnología y dispositivos móviles"
+    }
   }
 ]

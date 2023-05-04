@@ -1,5 +1,5 @@
 import fs from 'fs';
-
+import { v4 as uuidv4 } from 'uuid';
 const path = 'src/manager/products.json';
 
 class ProductManager {
@@ -29,7 +29,9 @@ class ProductManager {
     // genera un ID único para el producto
     async #generateId() {
         try {
-            return uuidv4();
+            const idString = uuidv4();
+            const idNumber = parseInt(idString.replace(/-/g, ''), 16);
+            return idNumber;
         } catch (error) {
             console.log(error);
         }

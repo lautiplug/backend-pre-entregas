@@ -4,5 +4,9 @@ crear carpeta manager con el productManager del desafio anterior con su json // 
 
 crear carpeta routes con los router del manager y del cart
 
-el server.js limpio solo con middlewares
+el server.js limpio
+
+comentar estrategicamente para no sobresaturar 
+
+ver video de como va a ser implementado con el front
 

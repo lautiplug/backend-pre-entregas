@@ -1,0 +1,8 @@
+Crear carpeta cart y poner el cart.js y el json
+
+crear carpeta manager con el productManager del desafio anterior con su json // no se si tiene q ser el mismo o es difrente, agregar funciones, parece dificil
+
+crear carpeta routes con los router del manager y del cart
+
+el server.js limpio solo con middlewares
+

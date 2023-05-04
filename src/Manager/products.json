@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 12",
+    "description": "Producto nuevo en caja sellada",
+    "code": "PF32",
+    "price": 659.99,
+    "status": true,
+    "stock": 10,
+    "category": "Tecnología y dispositivos móviles"
+  },
+  {
+    "id": 2,
+    "title": "iPhone 13",
+    "description": "Producto nuevo en caja sellada",
+    "code": "PF33",
+    "price": 769.99,
+    "status": true,
+    "stock": 10,
+    "category": "Tecnología y dispositivos móviles"
+  }
+]
